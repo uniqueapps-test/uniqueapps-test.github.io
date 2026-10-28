@@ -2,13 +2,13 @@
   "app": "KoboFlow TEST",
   "purpose": "Device acceptance testing with fictional data. Not production.",
   "sourceRepository": "uniqueapps-dev/KoboFlow",
-  "sourceCommit": "481ff54ca28a27acfbbfc837caba3bd760284bb5",
+  "sourceCommit": "03d8dee190b000457b25e298f323af8976668389",
   "sourceInputsCommitted": true,
   "version": "3.2.0",
   "database": "KoboFlowDB-test",
   "cacheNamespace": "koboflow-test-",
   "inputs": {
-    "koboflow.html": "2c690a90e33b7fe016d5d4e2ed70aa5879e3cb88dfd4d2a09ad7bf02d7250da4",
+    "koboflow.html": "0a71dafae3f2e2a779bd5379a34bcb00b95c8c0bef7bfd25203c8c1df72d557f",
     "manifest.json": "a0e2289b49505612c3a95b0757bcebfd2d0bb91204cc5b0c2a546eb4e894c9ed",
     "sw.js": "75cc8616fec8711788dd08ef933532058f1c7cb2110a587a666b401ca696e5a8",
     "icons/test-icon-192.png": "95eaa5289c54ce2b038dd7ec2abb3c0bc98cfdeba4bcb9cf81c7d744b21ccacd",
@@ -17,7 +17,7 @@
     "scripts/build-test-file.js": "0474066d4912b252cd690b164ae6fe4031a4684386454d9de717cc239979015c"
   },
   "files": {
-    "index.html": "2bfea30e2626b1fbe4aa6ba21aa1100455af6207b7c49b56bead62e42f62e42c",
+    "index.html": "b3497cc35ff88162953e21a8d0148fc4f23dd3e55e54c1deb5f28c201f815774",
     "test-manifest.json": "37118f7f00458ca7d30994110f82e15fa432a784f6adbadde4a0e02f18f60c71",
     "test-sw.js": "dd7b13696f6333cec0d7ecd8e99542e6c194014748fba7657484d329227ecf47",
     "icons/test-icon-192.png": "95eaa5289c54ce2b038dd7ec2abb3c0bc98cfdeba4bcb9cf81c7d744b21ccacd",
